@@ -7,4 +7,5 @@ Inorder to perfrom a proper EDA on the given data:Begin by importing the require
 #Objective
 
 .Improved customer experience by indentifying potential customer across different states,accupation,gender and age groups.
+
 .Improved sales by indentifying most selling product,category etc.
